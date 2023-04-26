@@ -1,4 +1,5 @@
-# https://www.varle.lt/_Baigiamasis
+
+# Testavimo atvejai puslapiui https://www.varle.lt
 
 1. Testavimo atvejis: Prekių paieška ir filtravimas
 
@@ -57,3 +58,4 @@
    b. Patikrinkite, ar matote slapukų ir privatumo politikos pranešimą
    c. Paspauskite "Sutinku" mygtuką
    d. Patikrinkite, ar pranešimas išnyksta ir galite toliau naršyti svetainėje
+
