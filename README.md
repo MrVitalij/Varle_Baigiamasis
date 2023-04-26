@@ -2,7 +2,7 @@
 <a id="anchor"></a>
 # 1. __Testavimo atvejis: Prekių paieška ir filtravimas__
 
-   > Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali sėkmingai ieškoti prekių pagal raktažodį ir filtruoti rezultatus pagal kategoriją, kainą, gamintoją ir kitus parametrus.
+   > Testavimo tikslas: Šis testavimo atvejis tikrina, ar vartotojas gali sėkmingai ieškoti prekių pagal raktažodį ir filtruoti rezultatus pagal kategoriją, kainą, gamintoją ir kitus parametrus.
 
    ### Veiksmai:
    * Apsilankykite https://www.varle.lt
@@ -15,9 +15,10 @@
 
 # 2. __Testavimo atvejis: Prekės puslapio peržiūra__
 
-   > Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali peržiūrėti prekės puslapį su visais reikalingais duomenimis, tokiomis kaip nuotraukos, kaina, aprašymas, specifikacijos ir atsiliepimai.
+   > Testavimo tikslas: Šis testavimo atvejis tikrina, ar vartotojas gali peržiūrėti prekės puslapį su visais reikalingais duomenimis, tokiomis kaip nuotraukos, kaina, aprašymas, specifikacijos ir atsiliepimai.
 
    ### Veiksmai:
+
    * Apsilankykite https://www.varle.lt
    * Įveskite raktažodį į paieškos laukelį, pvz., "laptopas"
    * Paspauskite "Ieškoti" mygtuką
@@ -28,7 +29,7 @@
 
 # 3. __Testavimo atvejis: Prekės pridėjimas į krepšelį ir užsakymo pateikimas__
 
-   > Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali pridėti prekę į krepšelį ir pateikti užsakymą su teisingais duomenimis.
+   > Testavimo tikslas: Šis testavimo atvejis tikrina, ar vartotojas gali pridėti prekę į krepšelį ir pateikti užsakymą su teisingais duomenimis.
 
    ### Veiksmai:
    * Apsilankykite https://www.varle.lt
@@ -45,7 +46,7 @@
 
 # 4. __Testavimo atvejis: Prisijungimas prie paskyros ir paskyros duomenų peržiūra__
 
-   > Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali prisijungti prie savo paskyros ir peržiūrėti savo paskyros duomenis.
+   > Testavimo tikslas: Šis testavimo atvejis tikrina, ar vartotojas gali prisijungti prie savo paskyros ir peržiūrėti savo paskyros duomenis.
 
    ## Veiksmai:
    * Apsilankykite https://www.varle.lt
@@ -58,7 +59,7 @@
 
 # 5. __Testavimo atvejis: Slapukų ir privatumo politikos sutikimas__
 
-   > Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali sutikti su slapukų ir privatumo politika ir toliau naršyti svetainėje.
+   > Testavimo tikslas: Šis testavimo atvejis tikrina, ar vartotojas gali sutikti su slapukų ir privatumo politika ir toliau naršyti svetainėje.
 
    ### Veiksmai:
    * Apsilankykite https://www.varle.lt
@@ -67,4 +68,18 @@
    * Patikrinkite, ar pranešimas išnyksta ir galite toliau naršyti svetainėje
 
    ***
+
+# 6. Pirkimo atšaukimas
+
+   > Testavimo tikslas: Patikrinti, ar svetainės pirkimo atšaukimo funkcija veikia teisingai ir vartotojams yra suteikta galimybė atšaukti savo pirkimą, jei reikia.
+
+   ### Veiksmai:
+   * Apsilankykite https://www.varle.lt
+   * Atidarykite pirkinių krepšelį.
+   * Raskite pirkimą, kurį norite atšaukti.
+   * Paspauskite mygtuką "X" pirkinio atšaukimui.
+   * Patikrinkite, ar pirkimas buvo sėkmingai atšauktas ir prekė pašalinta iš pirkinių krepšelio.
+
+   ***
+
    [Į viršų](#anchor)
