@@ -1,57 +1,70 @@
-# 1. Testavimo atvejis: Prekių paieška ir filtravimas
+# [Nuoroda į testuojamą puslapį](https://www.varle.lt)
+<a id="anchor"></a>
+# 1. __Testavimo atvejis: Prekių paieška ir filtravimas__
 
-   Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali sėkmingai ieškoti prekių pagal raktažodį ir filtruoti rezultatus pagal kategoriją, kainą, gamintoją ir kitus parametrus.
+   > Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali sėkmingai ieškoti prekių pagal raktažodį ir filtruoti rezultatus pagal kategoriją, kainą, gamintoją ir kitus parametrus.
 
-   ## Veiksmai:
-   ### a. Apsilankykite https://www.varle.lt
-   ### b. Įveskite raktažodį į paieškos laukelį, pvz., "laptopas"
-   ### c. Paspauskite "Ieškoti" mygtuką
-   ### d. Pasirinkite filtrus, kuriuos norite taikyti rezultatams, pvz., kategorija "Nešiojami kompiuteriai", kaina "nuo 500 iki 1000 eurų", gamintojas "Lenovo"
-   ### e. Patikrinkite, ar rezultatai atitinka pasirinktus filtrus
+   ### Veiksmai:
+   * Apsilankykite https://www.varle.lt
+   * Įveskite raktažodį į paieškos laukelį, pvz., "laptopas"
+   * Paspauskite "Ieškoti" mygtuką
+   * Pasirinkite filtrus, kuriuos norite taikyti rezultatams, pvz., kategorija "Nešiojami kompiuteriai", kaina "nuo 500 iki 1000 eurų", gamintojas "Lenovo"
+   * Patikrinkite, ar rezultatai atitinka pasirinktus filtrus
 
-# 2. Testavimo atvejis: Prekės puslapio peržiūra
+   ***
 
-   Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali peržiūrėti prekės puslapį su visais reikalingais duomenimis, tokiomis kaip nuotraukos, kaina, aprašymas, specifikacijos ir atsiliepimai.
+# 2. __Testavimo atvejis: Prekės puslapio peržiūra__
 
-   ## Veiksmai:
-   ### a. Apsilankykite https://www.varle.lt
-   ### b. Įveskite raktažodį į paieškos laukelį, pvz., "laptopas"
-   ### c. Paspauskite "Ieškoti" mygtuką
-   ### d. Pasirinkite bet kurią prekę iš rezultatų sąrašo
-   ### e. Patikrinkite, ar prekės puslapyje yra nuotraukos, kaina, aprašymas, specifikacijos ir atsiliepimai
+   > Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali peržiūrėti prekės puslapį su visais reikalingais duomenimis, tokiomis kaip nuotraukos, kaina, aprašymas, specifikacijos ir atsiliepimai.
 
-# 3. Testavimo atvejis: Prekės pridėjimas į krepšelį ir užsakymo pateikimas
+   ### Veiksmai:
+   * Apsilankykite https://www.varle.lt
+   * Įveskite raktažodį į paieškos laukelį, pvz., "laptopas"
+   * Paspauskite "Ieškoti" mygtuką
+   * Pasirinkite bet kurią prekę iš rezultatų sąrašo
+   * Patikrinkite, ar prekės puslapyje yra nuotraukos, kaina, aprašymas, specifikacijos ir atsiliepimai
 
-   Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali pridėti prekę į krepšelį ir pateikti užsakymą su teisingais duomenimis.
+   ***
 
-   ## Veiksmai:
-   ### a. Apsilankykite https://www.varle.lt
-   ### b. Įveskite raktažodį į paieškos laukelį, pvz., "laptopas"
-   ### c. Paspauskite "Ieškoti" mygtuką
-   ### d. Pasirinkite bet kurią prekę iš rezultatų sąrašo
-   ### e. Paspauskite "Į krepšelį" mygtuką
-   ### f. Apsilankykite krepšelio puslapyje
-   ### g. Patikrinkite, ar prekė yra krepšelyje, ir paspauskite "Užsakyti"
-   ### h. Įveskite visus privalomus užsakymo duomenis ir paspauskite "Pateikti užsakymą"
-   ### i. Patikrinkite, ar gaunate užsakymo patvirtinimo pranešimą
+# 3. __Testavimo atvejis: Prekės pridėjimas į krepšelį ir užsakymo pateikimas__
 
-# 4. Testavimo atvejis: Prisijungimas prie paskyros ir paskyros duomenų peržiūra
+   > Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali pridėti prekę į krepšelį ir pateikti užsakymą su teisingais duomenimis.
 
-   Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali prisijungti prie savo paskyros ir peržiūrėti savo paskyros duomenis.
+   ### Veiksmai:
+   * Apsilankykite https://www.varle.lt
+   * Įveskite raktažodį į paieškos laukelį, pvz., "laptopas"
+   * Paspauskite "Ieškoti" mygtuką
+   * Pasirinkite bet kurią prekę iš rezultatų sąrašo
+   * Paspauskite "Į krepšelį" mygtuką
+   * Apsilankykite krepšelio puslapyje
+   * Patikrinkite, ar prekė yra krepšelyje, ir paspauskite "Užsakyti"
+   * Įveskite visus privalomus užsakymo duomenis ir paspauskite "Pateikti užsakymą"
+   * Patikrinkite, ar gaunate užsakymo patvirtinimo pranešimą
 
-   ## Veiksmai:
-   ### a. Apsilankykite https://www.varle.lt
-   ### b. Paspauskite "Prisijungti" viršuje dešinėje
-   ### c. Įveskite savo prisijungimo duomenis ir paspauskite "Prisijungti"
-   ### d. Paspauskite savo vardą viršuje dešinėje, kad atidarytumėte paskyros meniu
-   ### e. Pasirinkite "Mano paskyra" ir patikrinkite, ar matote savo paskyros duomenis
+   ***
 
-# 5. Testavimo atvejis: Slapukų ir privatumo politikos sutikimas
+# 4. __Testavimo atvejis: Prisijungimas prie paskyros ir paskyros duomenų peržiūra__
 
-   Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali sutikti su slapukų ir privatumo politika ir toliau naršyti svetainėje.
+   > Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali prisijungti prie savo paskyros ir peržiūrėti savo paskyros duomenis.
 
    ## Veiksmai:
-   ### a. Apsilankykite https://www.varle.lt
-   ### b. Patikrinkite, ar matote slapukų ir privatumo politikos pranešimą
-   ### c. Paspauskite "Sutinku" mygtuką
-   ### d. Patikrinkite, ar pranešimas išnyksta ir galite toliau naršyti svetainėje
+   * Apsilankykite https://www.varle.lt
+   * Paspauskite "Prisijungti" viršuje dešinėje
+   * Įveskite savo prisijungimo duomenis ir paspauskite "Prisijungti"
+   * Paspauskite savo vardą viršuje dešinėje, kad atidarytumėte paskyros meniu
+   * Pasirinkite "Mano paskyra" ir patikrinkite, ar matote savo paskyros duomenis
+
+   ***
+
+# 5. __Testavimo atvejis: Slapukų ir privatumo politikos sutikimas__
+
+   > Aprašymas: Šis testavimo atvejis tikrina, ar vartotojas gali sutikti su slapukų ir privatumo politika ir toliau naršyti svetainėje.
+
+   ### Veiksmai:
+   * Apsilankykite https://www.varle.lt
+   * Patikrinkite, ar matote slapukų ir privatumo politikos pranešimą
+   * Paspauskite "Sutinku" mygtuką
+   * Patikrinkite, ar pranešimas išnyksta ir galite toliau naršyti svetainėje
+
+   ***
+   [Į viršų](#anchor)
